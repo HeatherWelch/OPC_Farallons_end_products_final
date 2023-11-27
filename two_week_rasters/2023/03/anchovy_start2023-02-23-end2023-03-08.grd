@@ -1,6 +1,14 @@
 [general]
 creator=R package 'raster'
-created=2023-11-23 12:35:34
+created=2023-11-27 12:07:16
+[georeference]
+nrows=180
+ncols=185
+xmin=-134
+ymin=30.000000000001
+xmax=-115.500000000001
+ymax=48
+projection=NA
 [data]
 datatype=FLT4S
 byteorder=little
@@ -16,12 +24,3 @@ values=
 color=
 [description]
 layername=layer
-[georeference]
-nrows=180
-ncols=185
-xmin=-134
-ymin=30.000000000001
-xmax=-115.500000000001
-ymax=48
-projection=
-wkt=
