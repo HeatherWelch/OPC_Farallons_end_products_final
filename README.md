@@ -21,4 +21,6 @@ Rolling two week metadata (.csv; "two_week_metadata") for each output in 4. & 5.
 ### 7. RAMP zone indicators  
 Daily indicators (.csv and .png; "ramp_zone_indicators") of average predicted distribution in RAMP zones 3 and 4    
 
-# Downloading products
+# Downloading products  
+### A. Navigate to the folder you want to download, e.g. raster data for November 2023: 
+
