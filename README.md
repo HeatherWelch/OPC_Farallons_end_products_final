@@ -23,5 +23,6 @@ Daily indicators (.csv and .png; "ramp_zone_indicators") of average predicted di
 
 # Downloading products  
 ### A. Navigate to the folder you want to download and copy URL, e.g. raster data for November 2023: https://github.com/HeatherWelch/OPC_Farallons_end_products_final/tree/main/rasters/2023/11  
-### B. 
+### B. Paste URL in box here: https://download-directory.github.io/  
+### C. Folder will be compressed and downloaded
 
