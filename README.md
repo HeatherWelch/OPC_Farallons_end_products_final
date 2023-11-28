@@ -22,5 +22,6 @@ Rolling two week metadata (.csv; "two_week_metadata") for each output in 4. & 5.
 Daily indicators (.csv and .png; "ramp_zone_indicators") of average predicted distribution in RAMP zones 3 and 4    
 
 # Downloading products  
-### A. Navigate to the folder you want to download, e.g. raster data for November 2023: 
+### A. Navigate to the folder you want to download and copy URL, e.g. raster data for November 2023: https://github.com/HeatherWelch/OPC_Farallons_end_products_final/tree/main/rasters/2023/11  
+### B. 
 
