@@ -1,9 +1,10 @@
 # OPC Farallons end products  
-Operational predictions of blue whale, humpback, anchovy, and EPAC distributions  
+Operational predictions of blue whale, humpback, anchovy, and EPAC distributions.
+For each species, outputs include:  
 
 ## Daily products  
 ### Rasters  
-Daily rasters (.grd and .gri) for each species  
+Daily rasters of predicted distribution (.grd and .gri)   
 ### Maps  
 Daily maps (.png) for each species  
 ### EPAC metadata  
