@@ -4,9 +4,9 @@ For each species, outputs include:
 
 ## Daily products  
 ### Rasters  
-Daily rasters of predicted distribution (.grd and .gri)   
+Daily rasters of predicted distribution (.grd and .gri; "rasters")   
 ### Maps  
-Daily maps (.png) for each species  
+Daily maps of predicted distribution (.png; "maps")   
 ### EPAC metadata  
 Daily metadata (.csv) for each epac prediction documenting how many days of data were available to make each monthly prediction in daily rasters and daily maps  
 
