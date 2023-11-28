@@ -12,11 +12,11 @@ Daily metadata (.csv; "epac_metadata") for each EPAC prediction documenting how 
 
 ## Two week products  
 ### 4. Two week rasters  
-Two week average rasters (.grd and .gri; "two_week_rasters") for each species  
+Rolling two week average rasters (.grd and .gri; "two_week_rasters") of predicted distribution    
 ### 5. Two week maps  
-Two week average maps (.png; "two_week_maps") for each species  
+Rolling two week average maps (.png; "two_week_maps") of predicted distribution    
 ### 6. Two week metadata  
-Metadata (.csv; "two_week_metadata") for each two-week prediction documenting how many days of data were available to make each two-week prediction in two week rasters and two week maps. Metadata can be matched to two week predictions by “end20XX-XX-XX”  
+Rolling two week metadata (.csv; "two_week_metadata") for each two-week prediction documenting how many days of data were available to make each two-week prediction in two week rasters and two week maps. Metadata can be matched to two week predictions by “end20XX-XX-XX”  
 
 ## Indicators  
 ### 7. RAMP zone indicators  
