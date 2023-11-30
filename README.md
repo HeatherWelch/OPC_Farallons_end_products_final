@@ -65,6 +65,7 @@ download_git(username = username,repository_name = repository_name, file_path = 
 ```
 
 # Species distribution model references 
-A. Krill
+A. Krill: Cimino et al. 2020. [Ecography](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05204)
+B. Anchovy: 
 
 
