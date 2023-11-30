@@ -1,7 +1,7 @@
 # OPC Farallons end products  
 Operational predictions of blue whale (probability of presence), humpback (density), anchovy (probability of presence), and EPAC (catch per unit effort, CPUE) distributions. 
 
-<img src="inst/imgs/overview.png?raw=True" width="300">  
+<img src="inst/imgs/overview.png?raw=True" width="800">  
 
 For each species, outputs include:  
 
