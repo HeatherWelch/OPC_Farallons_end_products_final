@@ -67,7 +67,7 @@ download_git(username = username,repository_name = repository_name, file_path = 
 # Metadata  
 ## Species distribution model references   
 A. Krill: Cimino et al. 2020. [Ecography](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05204)  
-B. Anchovy: Fennie et al. 2023. [Proc. B] (https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.2326)  
+B. Anchovy: Fennie et al. 2023. [Proc. B](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2022.2326)  
 C. Blue whale: Abrahms et al. 2019. [Diversity and Distributions](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12940)  
 D. Humpback whale: Unpublished. Examples of use:
 Samhouri et al. 2021. [Proc. B](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.1607)  
