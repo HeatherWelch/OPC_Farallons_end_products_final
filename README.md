@@ -33,5 +33,9 @@ A. Clone the repository: https://docs.github.com/en/repositories/creating-and-ma
 ## If you use R: 
 (And want to integrate products into an operational workflow)
 
+library(RCurl)
+library(tidyverse)
+library(glue)
+
 
 
