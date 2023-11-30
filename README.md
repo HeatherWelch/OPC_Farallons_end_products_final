@@ -71,7 +71,7 @@ B. Anchovy: Fennie et al. 2023. [Proc. B] (https://royalsocietypublishing.org/do
 C. Blue whale: Abrahms et al. 2019. [Diversity and Distributions](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12940)  
 D. Humpback whale: Unpublished. Examples of use:
 Samhouri et al. 2021. [Proc. B](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.1607)  
-Welch et al. 2023. [Conservation Biology] (https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.14201)  
+Welch et al. 2023. [Conservation Biology](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.14201)  
 
 ## Operationalization code  
 https://github.com/HeatherWelch/OPC_Farallons/tree/main/Operationalizing_V2   
