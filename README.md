@@ -30,6 +30,7 @@ C. Folder will be compressed and downloaded
 ## If you use github:  
 A. Clone the repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
+## If you use R: 
 
 
 
