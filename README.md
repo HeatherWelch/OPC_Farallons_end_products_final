@@ -64,5 +64,7 @@ download_git(username = username,repository_name = repository_name, file_path = 
 
 ```
 
+# Species distribution model references 
+A. Krill
 
 
