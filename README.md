@@ -31,6 +31,7 @@ C. Folder will be compressed and downloaded
 A. Clone the repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 ## If you use R: 
+(And want to integrate products into an operational workflow)
 
 
 
