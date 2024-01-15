@@ -1,14 +1,14 @@
 [general]
 creator=R package 'raster'
-created=2024-01-02 07:37:07
+created=2024-01-07 07:36:56
 [data]
 datatype=FLT4S
 byteorder=little
 nbands=1
 bandorder=BIL
 categorical=FALSE
-minvalue=1.46414498745938e-05
-maxvalue=0.0307923433585809
+minvalue=1.4481378587204e-05
+maxvalue=0.0297230345063976
 nodatavalue=-3.4e+38
 [legend]
 legendtype=
