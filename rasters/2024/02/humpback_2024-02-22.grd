@@ -1,0 +1,27 @@
+[general]
+creator=R package 'raster'
+created=2024-02-23 07:35:12
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=1.01447547252077e-05
+maxvalue=0.0398003246485563
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=preds
+[georeference]
+nrows=612
+ncols=334
+xmin=-126.0135
+ymin=32.0135000000081
+xmax=-116.995500000004
+ymax=48.5375
+projection=NA
+wkt=
