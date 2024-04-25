@@ -75,5 +75,3 @@ Welch et al. 2023. [Conservation Biology](https://conbio.onlinelibrary.wiley.com
 
 ## Operationalization code  
 https://github.com/HeatherWelch/OPC_Farallons/tree/main/Operationalizing_V2   
-
-
