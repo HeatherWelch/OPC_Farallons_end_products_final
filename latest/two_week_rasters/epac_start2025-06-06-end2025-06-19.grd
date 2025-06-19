@@ -1,14 +1,14 @@
 [general]
 creator=R package 'raster'
-created=2025-05-22 07:51:47
+created=2025-06-19 07:37:54
 [data]
 datatype=FLT4S
 byteorder=little
 nbands=1
 bandorder=BIL
 categorical=FALSE
-minvalue=7.97050085208996e-06
-maxvalue=0.0356931385051991
+minvalue=0.00956178132452935
+maxvalue=11.1133979388646
 nodatavalue=-3.4e+38
 [legend]
 legendtype=
@@ -17,11 +17,11 @@ color=
 [description]
 layername=layer
 [georeference]
-nrows=612
-ncols=334
-xmin=-126.0135
-ymin=32.0135000000081
-xmax=-116.995500000004
-ymax=48.5375
+nrows=180
+ncols=185
+xmin=-134
+ymin=30.000000000001
+xmax=-115.500000000001
+ymax=48
 projection=
 wkt=
