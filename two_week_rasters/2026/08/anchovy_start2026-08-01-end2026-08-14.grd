@@ -1,21 +1,21 @@
 [general]
 creator=R package 'raster'
-created=2026-07-22 07:38:39
+created=2026-08-14 07:38:20
 [data]
 datatype=FLT4S
 byteorder=little
 nbands=1
 bandorder=BIL
 categorical=FALSE
-minvalue=0
-maxvalue=10.6485700133612
+minvalue=2.22044604925031e-16
+maxvalue=0.981513065099716
 nodatavalue=-3.4e+38
 [legend]
 legendtype=
 values=
 color=
 [description]
-layername=pred_mean2
+layername=layer
 [georeference]
 nrows=180
 ncols=185
